@@ -27,7 +27,7 @@
     '<div class="footer">' +
     '<p>這是一段真實的經歷紀錄。部分個人資訊已隱藏保護當事人。</p>' +
     '<p style="margin-top: 8px">小恩 &amp; 戎狄的故事 — 2024–2026 紀實</p>' +
-    '<p style="margin-top: 4px; font-size: 0.78rem">最後更新：2026-04-05</p>' +
+    '<p style="margin-top: 4px; font-size: 0.78rem">最後更新：2026-04-09</p>' +
     '</div>';
 
   /**
